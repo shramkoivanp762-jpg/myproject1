@@ -1,0 +1,12 @@
+C:\Users\38095\Desktop\лаб\lab2\HouseLibrarys\bin\Debug\HouseLibrarys.dll
+C:\Users\38095\Desktop\лаб\lab2\HouseLibrarys\bin\Debug\HouseLibrarys.pdb
+C:\Users\38095\Desktop\лаб\lab2\HouseLibrarys\obj\Debug\HouseLibrarys.csproj.AssemblyReference.cache
+C:\Users\38095\Desktop\лаб\lab2\HouseLibrarys\obj\Debug\HouseLibrarys.csproj.CoreCompileInputs.cache
+C:\Users\38095\Desktop\лаб\lab2\HouseLibrarys\obj\Debug\HouseLibrarys.dll
+C:\Users\38095\Desktop\лаб\lab2\HouseLibrarys\obj\Debug\HouseLibrarys.pdb
+C:\Users\BO$$\Desktop\lab2\HouseLibrarys\bin\Debug\HouseLibrarys.dll
+C:\Users\BO$$\Desktop\lab2\HouseLibrarys\bin\Debug\HouseLibrarys.pdb
+C:\Users\BO$$\Desktop\lab2\HouseLibrarys\obj\Debug\HouseLibrarys.csproj.AssemblyReference.cache
+C:\Users\BO$$\Desktop\lab2\HouseLibrarys\obj\Debug\HouseLibrarys.csproj.CoreCompileInputs.cache
+C:\Users\BO$$\Desktop\lab2\HouseLibrarys\obj\Debug\HouseLibrarys.dll
+C:\Users\BO$$\Desktop\lab2\HouseLibrarys\obj\Debug\HouseLibrarys.pdb
